@@ -1,5 +1,6 @@
 {
   "name": "gerich-restaurant",
+  "homepage": "https://camhaoha.github.io/gericht_restaurant",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
